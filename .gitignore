@@ -1,0 +1,23 @@
+# Executables and Object Files
+*.exe
+*.o
+*.obj
+a.out
+
+# Standard macOS System Files
+.DS_Store
+.localized
+# For any unnamed executables (like 'check_parity' without .c extension)
+# Note: Uncomment the line below ONLY if you run into issues, 
+# as it can be overly aggressive. 
+# *[^.]
+
+# IDE/Project Files (Optional, but often useful)
+*.bin
+*.d
+*.layout
+*.tds
+*.bak
+
+# Debugging/Symbol Files
+*.dSYM
